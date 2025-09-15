@@ -1,1 +1,1 @@
-[![ifaresse's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ifaresse)](https://github.com/ifaresse/github-readme-activity-graph)
+[![ifaresse's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ifaresse&theme=merko&bg_color=0D1117&hide_border=true)](https://github.com/ifaresse/github-readme-activity-graph&theme=merko&bg_color=0D1117&hide_border=true)
